@@ -1,3 +1,3 @@
 # diode drive
 
-Diode drive is an overdrive plugin that aims to mimic how diodes react in analog circuits.
+diode drive is an overdrive plugin that aims to mimic how diodes react in analog circuits.
