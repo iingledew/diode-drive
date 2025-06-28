@@ -1,3 +1,3 @@
-# diode-drive
+# diode drive
 
-hello
+Diode drive is an overdrive plugin that aims to mimic how diodes react in analog circuits.
